@@ -41,7 +41,7 @@ public class Tester extends JFrame {
 	private JTextField txtProxyDomain;
 
 	/**
-	 * Launch the application.
+	 * Launch the application. 
 	 * 
 	 * System.setProperty("java.net.useSystemProxies", "true");
 	 * 
